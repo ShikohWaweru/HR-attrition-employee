@@ -155,6 +155,3 @@ Business travel compounds this: frequent travellers leave at **24.8%** vs 8.0% f
 `Excel` `Pivot Tables` `COUNTIFS` `Dashboard Design` `Slicers` `Data Cleaning` `Segmentation Analysis` `CRISP-DM` `Workforce Analytics` `Data Storytelling`
 
 ---
-
-*Part of my data analytics portfolio · [github.com/ShikohWaweru](https://github.com/ShikohWaweru)*  
-*See also: [Financial Performance Analysis FY2013–2014](https://github.com/ShikohWaweru/Financial-Performance-Analysis-FY2013-2014)*
